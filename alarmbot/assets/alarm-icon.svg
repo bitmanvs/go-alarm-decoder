@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512.00001 512.00001"
+   xml:space="preserve"
+   sodipodi:docname="alarm-icon.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/rice/Documents/alarm-icon.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><metadata
+   id="metadata3855"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3853">
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3000"
+   inkscape:window-height="1964"
+   id="namedview3851"
+   showgrid="false"
+   inkscape:zoom="1.6310412"
+   inkscape:cx="407.45947"
+   inkscape:cy="282.32402"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+
+<rect
+   style="fill:#ffffff;fill-opacity:1;stroke-width:1.24018919;stroke:#000000;stroke-opacity:1"
+   id="rect4738"
+   width="536.74084"
+   height="537.46277"
+   x="-12.370422"
+   y="-12.731384" /><g
+   id="g4717"
+   transform="matrix(0.84823128,0,0,0.84823128,39.750645,22.802738)"
+   inkscape:export-filename="/home/rice/Downloads/g4717.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><path
+     style="fill:#53c6ff;fill-opacity:1"
+     d="m 270,75.294011 v -30.117 c 0,-8.313 -6.746,-15.059 -15.059,-15.059 -8.313,0 -15.059,6.746 -15.059,15.059 v 30.118 c 0,8.312 6.746,15.059 15.059,15.059 8.313,0 15.059,-6.747 15.059,-15.06"
+     id="path3804"
+     inkscape:connector-curvature="0" /><path
+     style="fill:#53c6ff;fill-opacity:1"
+     d="M 74.235,240.94201 H 44.118 c -8.312,0 -15.059,6.746 -15.059,15.059 0,8.313 6.746,15.059 15.059,15.059 h 30.118 c 8.312,0 15.059,-6.746 15.059,-15.059 0,-8.313 -6.747,-15.059 -15.06,-15.059"
+     id="path3806"
+     inkscape:connector-curvature="0" /><path
+     style="fill:#53c6ff;fill-opacity:1"
+     d="m 465.765,240.94201 h -30.118 c -8.312,0 -15.059,6.746 -15.059,15.059 0,8.313 6.746,15.059 15.059,15.059 h 30.118 c 8.312,0 15.059,-6.746 15.059,-15.059 0,-8.313 -6.747,-15.059 -15.059,-15.059"
+     id="path3808"
+     inkscape:connector-curvature="0" /><path
+     style="fill:#53c6ff;fill-opacity:1"
+     d="m 393.362,96.271011 -21.293,21.292999 c -5.888,5.888 -5.888,15.42 0,21.293 5.873,5.888 15.42,5.888 21.293,0 l 21.293,-21.293 c 5.888,-5.888 5.888,-15.42 0,-21.292999 -5.873,-5.873 -15.405,-5.873 -21.293,0"
+     id="path3810"
+     inkscape:connector-curvature="0" /><path
+     style="fill:#53c6ff;fill-opacity:1"
+     d="m 95.212,117.58001 21.293,21.293 c 5.888,5.888 15.42,5.888 21.293,0 5.888,-5.888 5.888,-15.42 0,-21.293 L 116.52,96.271011 c -5.888,-5.888 -15.42,-5.888 -21.293,0 -5.888,5.887999 -5.888,15.420999 -0.015,21.308999"
+     id="path3812"
+     inkscape:connector-curvature="0" /><path
+     sodipodi:nodetypes="sscccssssssss"
+     style="fill:#53c6ff;fill-opacity:1"
+     d="m 254.941,135.53001 c -66.44,0 -120.471,54.031 -120.471,120.471 v 152.706 h 240.941 v -152.707 c 10e-4,-66.439 -54.03,-120.47 -120.47,-120.47 z m 60.235,135.529 c -8.328,0 -15.059,-6.731 -15.059,-15.059 0,-24.907 -20.269,-45.176 -45.176,-45.176 -8.328,0 -15.059,-6.731 -15.059,-15.059 0,-8.328 6.731,-15.059 15.059,-15.059 41.532,0 75.294,33.762 75.294,75.294 0,8.328 -6.731,15.059 -15.059,15.059 z"
+     id="path3814"
+     inkscape:connector-curvature="0" /><path
+     sodipodi:nodetypes="ccccccccssssssccscscsccssccscccsccs"
+     inkscape:connector-curvature="0"
+     id="path3818"
+     d="M 405.529,391.64701 H 390.47 v -135.647 c -0.03,-74.782 -60.747,-135.499 -135.529,-135.529 -74.782,0.03 -135.499,60.747 -135.529,135.529 v 135.647 h -15.059 c -24.952,0.015 -45.161,20.224 -45.176,45.176 v 30.118 c 0,3.96 1.611,7.846 4.412,10.647 2.801,2.801 6.686,4.412 10.647,4.412 h 361.412 c 3.96,0 7.846,-1.611 10.647,-4.412 2.801,-2.801 4.412,-6.686 4.412,-10.647 v -30.118 c -0.016,-24.952 -20.225,-45.161 -45.178,-45.176 z m -256,-135.647 c 0,-29.094 11.791,-55.356 30.916,-74.496 19.14,-19.125 45.402,-30.916 74.496,-30.916 29.094,0 55.356,11.791 74.496,30.916 19.125,19.14 30.916,45.402 30.916,74.496 v 135.647 H 149.529 Z m 271.059,195.883 H 89.294 v -15.059 c 0.015,-8.312 6.746,-15.059 15.059,-15.059 h 15.059 15.059 256 15.059 c 8.312,0 15.044,6.746 15.059,15.059 v 15.059 z"
+     style="fill:#2f2f2f;fill-opacity:1" /></g>
+<g
+   id="g3820"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3822"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3824"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3826"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3828"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3830"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3832"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3834"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3836"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3838"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3840"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3842"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3844"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3846"
+   transform="translate(0,30.118011)">
+</g>
+<g
+   id="g3848"
+   transform="translate(0,30.118011)">
+</g>
+</svg>

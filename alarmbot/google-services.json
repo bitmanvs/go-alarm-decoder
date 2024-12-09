@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325545665044",
+    "firebase_url": "https://adbot-a274c.firebaseio.com",
+    "project_id": "adbot-a274c",
+    "storage_bucket": "adbot-a274c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325545665044:android:89bd13f15363e94d777d01",
+        "android_client_info": {
+          "package_name": "lc.fn.alarmbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325545665044-cid8p80dh98gmo54ee08bq2n8sulgeiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGANfqRCxNgz7b6YOVvqZ1YCu9L8HQVKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325545665044-cid8p80dh98gmo54ee08bq2n8sulgeiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

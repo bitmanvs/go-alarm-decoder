@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "alarmbot",
+    "slug": "alarmbot",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/alarm-icon.svg.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "lc.fn.alarmbot",
+      "versionCode": 2,
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
